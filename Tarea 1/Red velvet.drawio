@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Página-1" id="IgwD9KPll6mTc4fHckgF">
+    <mxGraphModel dx="1090" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PASTEL DE RED VELVET" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.66" y="190" as="sourcePoint" />
+            <mxPoint x="399.66" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Preparamos los Ingredientes" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="1. Caja de Red velvet&lt;div&gt;2. Huevo&lt;/div&gt;&lt;div&gt;3. Agua&lt;/div&gt;&lt;div&gt;4. Aceite&lt;/div&gt;&lt;div&gt;5.Mantequilla&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="320" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="En un bowl preparamos la harina con 1 huevo, 1 taza de agua y 1/2 cucharadita de aceite" vertex="1">
+          <mxGeometry height="80" width="130" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.536;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" target="wpSLp6M2GLPJNimz9u5V-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="520" as="sourcePoint" />
+            <mxPoint x="500" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Luego batimos hasta que la masa este consistente" vertex="1">
+          <mxGeometry height="90" width="130" x="500" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="En nuestro recipiente dejamos mantequilla a su alrededor y un poco de harina para que no se pegue" vertex="1">
+          <mxGeometry height="90" width="150" x="325" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Lo ponemos en el horno por 25 mins con 185 F y terminamos el pastel" vertex="1">
+          <mxGeometry height="80" width="200" x="295" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.528;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" target="wpSLp6M2GLPJNimz9u5V-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="690" as="sourcePoint" />
+            <mxPoint x="450" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpSLp6M2GLPJNimz9u5V-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Realizado por Ximena Sabán 202307634" vertex="1">
+          <mxGeometry height="40" width="160" x="590" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
